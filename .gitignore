@@ -1,0 +1,7 @@
+*__pycache__*
+demo/ford_unseen/
+venv*/*
+demo/test/*
+demo/video*
+demo/webcam/*
+demo/detections/*

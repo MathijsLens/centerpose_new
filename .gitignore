@@ -5,3 +5,8 @@ demo/test/*
 demo/video*
 demo/webcam/*
 demo/detections/*
+*.pth
+.id*/*
+.ip*/*
+.vs*/*
+

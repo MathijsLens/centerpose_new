@@ -1,0 +1,60 @@
+ParcelID,test adress Number,ParcelLength,ParcelWidth,ParcelDepth,SumOfDimensions,parcelType,Color,Brand,Tape Color,Form Format,Dimensions,Packaging Type,Human recognizable features,AprilTagTop,AprilTagBottom,AprilTagFront,AprilTagBack,AprilTagLeft,AprilTagRight
+89,test ADR 1,305,230,130,665,box,brown,no brand,brown / transparant,parcel,medium,cardboard,,121,122,123,124,125,126
+90,test ADR 2,210,200,110,520,box,brown,no brand,transparant,parcel,small,cardboard,,127,128,129,130,131,132
+91,test ADR 3,320,180,170,670,box,brown,Stoov,brown / beige,parcel,medium,cardboard,,133,134,135,136,137,138
+92,test ADR 4,240,235,260,735,box,brown,Stroh fur alle Stalle,transparant,parcel,medium,cardboard,,139,140,141,142,143,144
+93,test ADR 5,458,180,100,738,box,brown,no brand,transparant,parcel,medium,cardboard,,145,146,147,148,149,150
+94,test ADR 6,310,230,110,650,box,brown,Amazon,black amazon prime,parcel,medium,cardboard,,151,152,153,154,155,156
+95,test ADR 7,290,220,60,570,envelop,brown,Amazon,transparant,envelope,small,cardboard,,157,158,,,,
+96,test ADR 8,348,246,20,614,envelop,brown,no brand,transparant,envelope,medium,cardboard,,163,164,,,,
+97,test ADR 9,350,260,30,640,envelop,brown,Wago,transparant,envelope,medium,cardboard,Green Wago text,169,170,,,,
+98,test ADR 10,350,245,30,625,envelop,brown,Amazon,beige,envelope,medium,cardboard,,175,176,,,,
+99,test ADR 11,400,325,80,805,bag,brown,Loesdau,n.a.,bag,medium,plastic,"Green banner, white bag",181,182,,,,
+100,test ADR 12,345,265,50,660,envelop,brown,Amazon,transparant,envelope,medium,cardboard,,187,188,,,,
+101,test ADR 13,302,300,125,727,box,brown,Bijenkorf,brown,parcel,medium,cardboard,,193,194,195,196,197,198
+102,test ADR 14,330,250,50,630,bag,black,no brand,transparant,bag,medium,plastic,black bubble plastic,199,200,,,,
+103,test ADR 15,250,180,70,500,envelop,brown,Amazon,transparant,envelope,small,cardboard,,205,206,,,,
+104,test ADR 16,250,240,40,530,bag,grey,no brand,transparant,bag,small,plastic,grey plastic,211,212,,,,
+105,test ADR 17,330,245,107,682,box,white,Tjibo,beige / transparant,parcel,medium,cardboard,white with pattern,217,218,219,220,221,222
+106,test ADR 18,268,193,193,654,box,brown,no brand,transparant,parcel,medium,cardboard,,223,224,225,226,227,228
+107,test ADR 19,372,235,142,749,box,brown,Salamander,transparant,parcel,medium,cardboard,Lizzard logo,229,230,231,232,233,234
+108,test ADR 20,350,247,30,627,envelop,brown,Amazon,beige,envelope,medium,cardboard,,235,236,,,,
+109,test ADR 21,345,245,45,635,envelop,brown,no brand,beige,envelope,medium,cardboard,,241,242,,,,
+110,test ADR 22,210,160,110,480,box,brown,no brand,brown,parcel,small,cardboard,,247,248,249,250,251,252
+111,test ADR 23,470,380,50,900,bag,brown,Amazon,transparant,bag,large,paper,paper,253,254,,,,
+112,test ADR 24,290,195,135,620,box,brown,harting,brown,parcel,medium,cardboard,,259,260,261,262,263,264
+113,test ADR 25,470,450,90,1010,bag,black,van Uffelen,n.a.,bag,large,plastic,black plastic bag,265,266,,,,
+114,test ADR 26,235,160,30,425,envelop,brown,no brand,transparant,envelope,small,cardboard,,271,272,,,,
+115,test ADR 27,240,167,100,507,box,brown,no brand,transparant,parcel,small,cardboard,,277,278,279,280,281,282
+116,test ADR 28,293,227,20,540,envelop,brown,Amazon,beige,envelope,small,cardboard,battery warning sticker,283,284,,,,
+117,test ADR 29,293,227,20,540,envelop,brown,Amazon,beige,envelope,small,cardboard,battery warning sticker,289,290,,,,
+118,test ADR 30,293,227,20,540,envelop,brown,Amazon,transparant,envelope,small,cardboard,battery warning sticker,295,296,,,,
+119,test ADR 31,223,170,110,503,box,brown,Amazon,black prime video,parcel,small,cardboard,prime video black tape,301,302,303,304,305,306
+120,test ADR 32,395,245,150,790,box,brown,no brand,brown,parcel,medium,cardboard,,307,308,309,310,311,312
+121,test ADR 33,535,350,150,1035,bag,brown,Zalando,transparant,bag,large,paper,brown paper bag,313,314,,,,
+122,test ADR 34,280,200,70,550,envelop,brown,Amazon,beige,envelope,small,cardboard,,319,320,,,,
+123,test ADR 35,200,140,167,507,box,brown,BASF,white / brown,parcel,small,cardboard,BASF white tape on brown box,325,326,327,328,329,330
+124,test ADR 36,280,205,45,530,envelop,brown,no brand,brown /beige,envelope,small,cardboard,blank brown cardboard,331,332,,,,
+125,test ADR 37,255,165,50,470,box,white,no brand,brown,parcel,small,cardboard,white with brown tape,337,338,339,340,341,342
+126,test ADR 38,240,158,143,541,box,brown,Lesch Horn,brown / white,parcel,small,cardboard,brown cardboard with brown tape,343,344,345,346,347,348
+127,test ADR 39,340,270,70,680,bag,white,no brand,beige,bag,medium,plastic,white plastic bubble plastic,349,350,,,,
+128,test ADR 40,235,180,20,435,envelop,brown,Amazon,beige,envelope,small,cardboard,,355,356,,,,
+129,test ADR 41,400,258,200,858,box,brown,no brand,transparant / beige,parcel,large,cardboard,,361,362,363,364,365,366
+130,test ADR 42,280,203,95,578,box,brown,no brand,brown,parcel,small,cardboard,,367,368,369,370,371,372
+131,test ADR 43,340,240,145,725,box,brown,no brand,brown with white text,parcel,medium,cardboard,brown tape with white text,373,374,375,376,377,378
+132,test ADR 44,395,295,90,780,box,brown,Wuerth,transparant,parcel,medium,cardboard,,379,380,381,382,383,384
+133,test ADR 45,395,300,208,903,box,brown,Auto Dogs,white autodogs,parcel,large,cardboard,brown cardboard with white autodogs tape,385,386,387,388,389,390
+134,test ADR 46,445,360,205,1010,box,white,Tjibo,brown / transparant,parcel,large,cardboard,white with pattern,391,392,393,394,395,396
+135,test ADR 47,625,123,123,871,bar shaped,brown,no brand,brown / beige,parcel,large,cardboard,,397,398,399,400,401,402
+136,test ADR 48,460,285,125,870,box,white,no brand,n.a.,parcel,large,cardboard,white cardboard,403,404,405,406,407,408
+137,test ADR 49,305,230,220,755,box,brown,Beckhoff,white with red text,parcel,medium,cardboard,brown with white tape with red print,409,410,411,412,413,414
+138,test ADR 50,493,297,168,958,box,brown,no brand,brown / transparant,parcel,large,cardboard,,415,416,417,418,419,420
+139,test ADR 51,455,385,90,930,bag,white,Zalando,n.a.,bag,large,plastic,white plastic Love me text,421,422,,,,
+140,test ADR 52,398,300,197,895,box,brown,no brand,beige / transparant,parcel,large,cardboard,,427,428,429,430,431,432
+141,test ADR 53,212,140,30,382,envelop,white,no brand,beige,envelope,small,paper,white paper,433,434,,,,
+142,test ADR 54,472,267,252,991,box,brown,no brand,beige / transparant,parcel,large,cardboard,,439,440,441,442,443,444
+143,test ADR 55,1150,215,127,1492,bar shaped,brown,Amazon,black amazon prime,parcel,large,cardboard,,445,446,447,448,449,450
+144,test ADR 56,580,395,245,1220,box,brown,no brand,white with brown and green print,parcel,large,cardboard,brown cardboard with white tape with brown and green print,451,452,453,454,455,456
+145,test ADR 57,330,230,35,595,envelop,brown,Amazon,transparant,envelope,small,paper,brown paper,457,458,,,,
+146,test ADR 58,500,390,240,1130,box,brown,no brand,beige,parcel,large,cardboard,,463,464,465,466,467,468
+147,test ADR 59,677,555,425,1657,box,brown,no brand,transparant / beige,parcel,large,cardboard,,469,470,471,472,473,474
